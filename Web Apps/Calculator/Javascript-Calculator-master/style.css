@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(73, 6, 6);
+}
+#main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#calc{
+    box-shadow: 4px 4px 10px black;
+    padding: 10px;
+    border-radius: 4px;
+    background-color: white;
+}
+#btn{
+    width: 3em;
+    height: 3em;
+    color: red;
+    background-color: rgb(3, 3, 151);
+
+}
+#btn1{
+    width: 3em;
+    height: 3em;
+    color: red;
+    background-color: rgb(59, 2, 77);
+
+}
+#input{
+    height: 2em;
+    background-color: aqua;
+}
